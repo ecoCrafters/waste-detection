@@ -1,0 +1,16 @@
+item { 
+	name:'AluCan'
+	id:1
+}
+item { 
+	name:'Glass'
+	id:2
+}
+item { 
+	name:'HDPEM'
+	id:3
+}
+item { 
+	name:'PET'
+	id:4
+}

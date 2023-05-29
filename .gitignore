@@ -1,0 +1,32 @@
+/System Volume Information/
+/$Recycle.Bin/
+/RECYCLE?/
+/Recovery/
+*/thumbs.db
+
+*.jpg | *.JPG | *.png | *.PNG | *.jpeg | *.JPEG | *.heic | *.HEIC
+*/.git
+*.ipynb | *.drawio
+/kaggle (1).json
+/Sorting tensorflow model zoo
+*/.ipynb_checkpoints/
+*/drinking-waste-classification.zip
+
+/KAGGLE_DATASET/Images_of_Waste/YOLO_imgs/
+/KAGGLE_DATASET/test/
+/KAGGLE_DATASET/train/
+
+/TACO/detector
+/TACO/.gitignore
+/TACO/download.py
+/TACO/LICENSE
+/TACO/README.md
+/TACO/requirements.txt
+/TACO/data/all_image_urls.csv
+
+waste_detection/workspace/pre-trained-models/
+waste_detection/models/
+waste_detection/scripts/*
+waste_detection/workspace/models/**/events.out.tfevents.*
+waste_detection/workspace/models/*/ckpt*
+waste_detection/workspace/models/*/checkpoint
