@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>batch_7_000022.JPG</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_7/000022.JPG</path>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth/>
+	</size>
+	<object>
+		<name>Other plastic</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>2499</xmin>
+			<xmax>2798</xmax>
+			<ymin>1822</ymin>
+			<ymax>2048</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1236</xmin>
+			<xmax>1469</xmax>
+			<ymin>231</ymin>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>2322</xmin>
+			<xmax>2599</xmax>
+			<ymin>90</ymin>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>2071</xmin>
+			<xmax>2303</xmax>
+			<ymin>190</ymin>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>458</xmin>
+			<xmax>1237</xmax>
+			<ymin>1449</ymin>
+			<ymax>1922</ymax>
+		</bndbox>
+	</object>
+</annotation>

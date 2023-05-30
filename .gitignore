@@ -4,7 +4,14 @@
 /Recovery/
 */thumbs.db
 
-*.jpg | *.JPG | *.png | *.PNG | *.jpeg | *.JPEG | *.heic | *.HEIC
+*.jpg
+*.JPG
+*.png
+*.PNG
+*.jpeg
+*.JPEG
+*.heic
+*.HEIC
 */.git
 *.ipynb | *.drawio
 /kaggle (1).json

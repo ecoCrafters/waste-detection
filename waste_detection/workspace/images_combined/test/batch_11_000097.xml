@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>batch_11_000097.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_11/000097.jpg</path>
+	<size>
+		<width>2988</width>
+		<height>5312</height>
+		<depth/>
+	</size>
+	<object>
+		<name>Plastic container</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>2170</xmin>
+			<xmax>2422</xmax>
+			<ymin>3664</ymin>
+			<ymax>3965</ymax>
+		</bndbox>
+	</object>
+</annotation>

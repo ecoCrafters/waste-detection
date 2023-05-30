@@ -1,0 +1,93 @@
+<annotation>
+	<filename>batch_6_000057.JPG</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_6/000057.JPG</path>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth />
+	</size>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>75</xmin>
+			<xmax>105</xmax>
+			<ymin>166</ymin>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>92</xmax>
+			<ymin>91</ymin>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>176</xmax>
+			<ymin>88</ymin>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>199</xmin>
+			<xmax>216</xmax>
+			<ymin>73</ymin>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>237</xmin>
+			<xmax>250</xmax>
+			<ymin>107</ymin>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>40</xmin>
+			<xmax>54</xmax>
+			<ymin>139</ymin>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>210</xmin>
+			<xmax>293</xmax>
+			<ymin>18</ymin>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>

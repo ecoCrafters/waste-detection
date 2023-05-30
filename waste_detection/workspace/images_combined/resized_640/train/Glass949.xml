@@ -1,0 +1,33 @@
+<annotation>
+	<filename>Glass949.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/KAGGLE_DATASET/Images_of_Waste/YOLO_imgs/Glass949.jpg</path>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth />
+	</size>
+	<object>
+		<name>Bottle</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>242</xmin>
+			<xmax>635</xmax>
+			<ymin>141</ymin>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>227</xmin>
+			<xmax>598</xmax>
+			<ymin>366</ymin>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>

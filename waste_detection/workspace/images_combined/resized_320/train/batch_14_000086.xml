@@ -1,0 +1,21 @@
+<annotation>
+	<filename>batch_14_000086.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_14/000086.jpg</path>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth />
+	</size>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>121</xmin>
+			<xmax>161</xmax>
+			<ymin>100</ymin>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

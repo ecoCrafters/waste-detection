@@ -1,0 +1,33 @@
+<annotation>
+	<filename>batch_8_000028.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_8/000028.jpg</path>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth />
+	</size>
+	<object>
+		<name>Bottle</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>137</xmin>
+			<xmax>203</xmax>
+			<ymin>203</ymin>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>150</xmin>
+			<xmax>186</xmax>
+			<ymin>45</ymin>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>

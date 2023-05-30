@@ -1,0 +1,57 @@
+<annotation>
+	<filename>batch_3_IMG_4969.JPG</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_3/IMG_4969.JPG</path>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth />
+	</size>
+	<object>
+		<name>Bottle</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>192</xmin>
+			<xmax>255</xmax>
+			<ymin>316</ymin>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>338</xmin>
+			<xmax>350</xmax>
+			<ymin>201</ymin>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>205</xmin>
+			<xmax>246</xmax>
+			<ymin>292</ymin>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>371</xmin>
+			<xmax>377</xmax>
+			<ymin>176</ymin>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

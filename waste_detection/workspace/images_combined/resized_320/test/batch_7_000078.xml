@@ -1,0 +1,117 @@
+<annotation>
+	<filename>batch_7_000078.JPG</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_7/000078.JPG</path>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth />
+	</size>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>168</xmax>
+			<ymin>0</ymin>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>244</xmax>
+			<ymin>52</ymin>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>77</xmax>
+			<ymin>153</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>213</xmin>
+			<xmax>243</xmax>
+			<ymin>170</ymin>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>133</xmax>
+			<ymin>141</ymin>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>264</xmin>
+			<xmax>291</xmax>
+			<ymin>144</ymin>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>128</xmin>
+			<xmax>160</xmax>
+			<ymin>184</ymin>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>111</xmin>
+			<xmax>126</xmax>
+			<ymin>194</ymin>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle cap</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>169</xmin>
+			<xmax>177</xmax>
+			<ymin>215</ymin>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+	<filename>batch_5_000004.JPG</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_5/000004.JPG</path>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth />
+	</size>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>417</xmin>
+			<xmax>540</xmax>
+			<ymin>180</ymin>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

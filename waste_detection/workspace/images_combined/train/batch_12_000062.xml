@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>batch_12_000062.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_12/000062.jpg</path>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth/>
+	</size>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>361</xmin>
+			<xmax>511</xmax>
+			<ymin>1378</ymin>
+			<ymax>1497</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>979</xmin>
+			<xmax>1655</xmax>
+			<ymin>1669</ymin>
+			<ymax>2051</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1110</xmin>
+			<xmax>1785</xmax>
+			<ymin>2261</ymin>
+			<ymax>2825</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>2519</xmin>
+			<xmax>2581</xmax>
+			<ymin>1670</ymin>
+			<ymax>1712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>3427</xmin>
+			<xmax>3601</xmax>
+			<ymin>1635</ymin>
+			<ymax>1739</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>783</xmin>
+			<xmax>957</xmax>
+			<ymin>1989</ymin>
+			<ymax>2082</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>3474</xmin>
+			<xmax>3717</xmax>
+			<ymin>1958</ymin>
+			<ymax>2104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1542</xmin>
+			<xmax>1706</xmax>
+			<ymin>1587</ymin>
+			<ymax>1803</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1608</xmin>
+			<xmax>1742</xmax>
+			<ymin>1703</ymin>
+			<ymax>1835</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>2236</xmin>
+			<xmax>2388</xmax>
+			<ymin>2001</ymin>
+			<ymax>2109</ymax>
+		</bndbox>
+	</object>
+</annotation>

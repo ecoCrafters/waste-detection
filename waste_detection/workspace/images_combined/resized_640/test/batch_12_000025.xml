@@ -1,0 +1,153 @@
+<annotation>
+	<filename>batch_12_000025.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_12/000025.jpg</path>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth />
+	</size>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>613</xmin>
+			<xmax>627</xmax>
+			<ymin>198</ymin>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>577</xmin>
+			<xmax>593</xmax>
+			<ymin>285</ymin>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>623</xmin>
+			<xmax>638</xmax>
+			<ymin>376</ymin>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>565</xmin>
+			<xmax>600</xmax>
+			<ymin>446</ymin>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>339</xmin>
+			<xmax>364</xmax>
+			<ymin>564</ymin>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>320</xmin>
+			<xmax>326</xmax>
+			<ymin>542</ymin>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>215</xmin>
+			<xmax>223</xmax>
+			<ymin>566</ymin>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>35</xmax>
+			<ymin>149</ymin>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>482</xmin>
+			<xmax>494</xmax>
+			<ymin>385</ymin>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>391</xmin>
+			<xmax>408</xmax>
+			<ymin>373</ymin>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>240</xmin>
+			<xmax>249</xmax>
+			<ymin>356</ymin>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>336</xmin>
+			<xmax>361</xmax>
+			<ymin>102</ymin>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

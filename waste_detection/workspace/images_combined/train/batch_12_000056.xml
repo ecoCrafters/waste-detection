@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>batch_12_000056.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_12/000056.jpg</path>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth/>
+	</size>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1169</xmin>
+			<xmax>2664</xmax>
+			<ymin>286</ymin>
+			<ymax>2206</ymax>
+		</bndbox>
+	</object>
+</annotation>

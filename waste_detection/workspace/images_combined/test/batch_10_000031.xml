@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>batch_10_000031.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_10/000031.jpg</path>
+	<size>
+		<width>1824</width>
+		<height>4000</height>
+		<depth/>
+	</size>
+	<object>
+		<name>Carton</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>631</xmin>
+			<xmax>1823</xmax>
+			<ymin>1508</ymin>
+			<ymax>2155</ymax>
+		</bndbox>
+	</object>
+</annotation>
