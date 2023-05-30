@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_7_000045.JPG</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1188</xmin>
+			<ymin>1207</ymin>
+			<xmax>1389</xmax>
+			<ymax>1580</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1238</xmin>
+			<ymin>1491</ymin>
+			<xmax>1292</xmax>
+			<ymax>1543</ymax>
+		</bndbox>
+	</object>
+</annotation>

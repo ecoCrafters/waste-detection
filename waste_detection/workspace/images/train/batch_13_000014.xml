@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_13_000014.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>2368</width>
+		<height>4208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>908</xmin>
+			<ymin>1</ymin>
+			<xmax>1379</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1391</xmin>
+			<ymin>1053</ymin>
+			<xmax>1527</xmax>
+			<ymax>1195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>616</xmin>
+			<ymin>3902</ymin>
+			<xmax>889</xmax>
+			<ymax>4206</ymax>
+		</bndbox>
+	</object>
+</annotation>

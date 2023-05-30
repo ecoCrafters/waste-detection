@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>batch_9_000027.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_9/000027.jpg</path>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth/>
+	</size>
+	<object>
+		<name>Bottle cap</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1035</xmin>
+			<xmax>1258</xmax>
+			<ymin>2694</ymin>
+			<ymax>2933</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>262</xmin>
+			<xmax>517</xmax>
+			<ymin>3086</ymin>
+			<ymax>3253</ymax>
+		</bndbox>
+	</object>
+</annotation>

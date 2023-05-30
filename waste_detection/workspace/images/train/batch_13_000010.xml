@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_13_000010.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>7</ymin>
+			<xmax>2465</xmax>
+			<ymax>1756</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Straw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1475</xmin>
+			<ymin>689</ymin>
+			<xmax>3620</xmax>
+			<ymax>1449</ymax>
+		</bndbox>
+	</object>
+</annotation>

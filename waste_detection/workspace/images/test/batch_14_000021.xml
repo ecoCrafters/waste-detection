@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>test</folder>
+	<filename>batch_14_000021.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1175</xmin>
+			<ymin>1930</ymin>
+			<xmax>1525</xmax>
+			<ymax>2172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1591</xmin>
+			<ymin>1419</ymin>
+			<xmax>1885</xmax>
+			<ymax>1875</ymax>
+		</bndbox>
+	</object>
+</annotation>

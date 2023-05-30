@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>test</folder>
+	<filename>batch_1_000102.JPG</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>812</xmin>
+			<ymin>1171</ymin>
+			<xmax>2016</xmax>
+			<ymax>1996</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1824</xmin>
+			<ymin>720</ymin>
+			<xmax>2434</xmax>
+			<ymax>1538</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Food waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1014</xmin>
+			<ymin>1875</ymin>
+			<xmax>1064</xmax>
+			<ymax>1921</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_15_000032.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1925</xmin>
+			<ymin>1589</ymin>
+			<xmax>2382</xmax>
+			<ymax>2203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1903</xmin>
+			<ymin>1211</ymin>
+			<xmax>2435</xmax>
+			<ymax>1662</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3498</xmin>
+			<ymin>587</ymin>
+			<xmax>3783</xmax>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1929</xmin>
+			<ymin>2151</ymin>
+			<xmax>2009</xmax>
+			<ymax>2467</ymax>
+		</bndbox>
+	</object>
+</annotation>

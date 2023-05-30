@@ -1,0 +1,33 @@
+<annotation>
+	<filename>batch_7_000138.JPG</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_7/000138.JPG</path>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth />
+	</size>
+	<object>
+		<name>Bottle cap</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>202</xmin>
+			<xmax>226</xmax>
+			<ymin>294</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>495</xmin>
+			<xmax>537</xmax>
+			<ymin>274</ymin>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

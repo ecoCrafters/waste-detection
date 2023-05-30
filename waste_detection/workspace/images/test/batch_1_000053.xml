@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>test</folder>
+	<filename>batch_1_000053.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>1537</width>
+		<height>2049</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>410</ymin>
+			<xmax>1532</xmax>
+			<ymax>1408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>1</ymin>
+			<xmax>338</xmax>
+			<ymax>665</ymax>
+		</bndbox>
+	</object>
+</annotation>

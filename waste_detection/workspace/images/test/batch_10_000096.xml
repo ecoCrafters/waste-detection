@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>test</folder>
+	<filename>batch_10_000096.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1084</xmin>
+			<ymin>1600</ymin>
+			<xmax>1317</xmax>
+			<ymax>1790</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Broken glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1925</xmin>
+			<ymin>3925</ymin>
+			<xmax>1990</xmax>
+			<ymax>3990</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>1258</ymin>
+			<xmax>551</xmax>
+			<ymax>1367</ymax>
+		</bndbox>
+	</object>
+</annotation>

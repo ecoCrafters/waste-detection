@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>test</folder>
+	<filename>batch_1_000023.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>1537</width>
+		<height>2049</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1015</xmin>
+			<ymin>979</ymin>
+			<xmax>1205</xmax>
+			<ymax>1193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>683</xmin>
+			<ymin>1550</ymin>
+			<xmax>904</xmax>
+			<ymax>1653</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pop tab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1162</xmin>
+			<ymin>1166</ymin>
+			<xmax>1180</xmax>
+			<ymax>1193</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>test</folder>
+	<filename>batch_11_000026.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bottle cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3171</xmin>
+			<ymin>2211</ymin>
+			<xmax>3457</xmax>
+			<ymax>2485</ymax>
+		</bndbox>
+	</object>
+</annotation>

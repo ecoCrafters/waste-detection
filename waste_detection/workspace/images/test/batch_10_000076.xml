@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>test</folder>
+	<filename>batch_10_000076.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>1824</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>671</xmin>
+			<ymin>3937</ymin>
+			<xmax>719</xmax>
+			<ymax>3995</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>670</xmin>
+			<ymin>1780</ymin>
+			<xmax>692</xmax>
+			<ymax>1791</ymax>
+		</bndbox>
+	</object>
+</annotation>

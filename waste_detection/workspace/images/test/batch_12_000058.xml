@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>test</folder>
+	<filename>batch_12_000058.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>1496</ymin>
+			<xmax>1232</xmax>
+			<ymax>2053</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1991</xmin>
+			<ymin>3585</ymin>
+			<xmax>2116</xmax>
+			<ymax>3730</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2122</xmin>
+			<ymin>3489</ymin>
+			<xmax>2219</xmax>
+			<ymax>3591</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>3009</ymin>
+			<xmax>1138</xmax>
+			<ymax>3076</ymax>
+		</bndbox>
+	</object>
+</annotation>

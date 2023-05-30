@@ -1,0 +1,21 @@
+<annotation>
+	<filename>HDPEM28.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/KAGGLE_DATASET/Images_of_Waste/YOLO_imgs/HDPEM28.jpg</path>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth />
+	</size>
+	<object>
+		<name>Plastic container</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>73</xmin>
+			<xmax>302</xmax>
+			<ymin>0</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

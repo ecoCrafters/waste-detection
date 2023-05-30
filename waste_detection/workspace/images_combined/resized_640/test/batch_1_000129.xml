@@ -1,0 +1,57 @@
+<annotation>
+	<filename>batch_1_000129.JPG</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_1/000129.JPG</path>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth />
+	</size>
+	<object>
+		<name>Carton</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>625</xmax>
+			<ymin>223</ymin>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>257</xmin>
+			<xmax>372</xmax>
+			<ymin>176</ymin>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>312</xmin>
+			<xmax>381</xmax>
+			<ymin>107</ymin>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>87</xmin>
+			<xmax>249</xmax>
+			<ymin>125</ymin>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

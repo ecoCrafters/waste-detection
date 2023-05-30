@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_11_000019.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2689</xmin>
+			<ymin>1780</ymin>
+			<xmax>3151</xmax>
+			<ymax>2060</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Styrofoam piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1467</xmin>
+			<ymin>1934</ymin>
+			<xmax>1873</xmax>
+			<ymax>2022</ymax>
+		</bndbox>
+	</object>
+</annotation>

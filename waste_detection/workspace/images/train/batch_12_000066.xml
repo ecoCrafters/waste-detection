@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_12_000066.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>4208</width>
+		<height>2368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2750</xmin>
+			<ymin>576</ymin>
+			<xmax>3305</xmax>
+			<ymax>1161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1273</xmin>
+			<ymin>532</ymin>
+			<xmax>1638</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>

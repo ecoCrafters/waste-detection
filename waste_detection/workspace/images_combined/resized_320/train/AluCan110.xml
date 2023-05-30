@@ -1,0 +1,21 @@
+<annotation>
+	<filename>AluCan110.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/KAGGLE_DATASET/Images_of_Waste/YOLO_imgs/AluCan110.jpg</path>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth />
+	</size>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>71</xmin>
+			<xmax>256</xmax>
+			<ymin>165</ymin>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

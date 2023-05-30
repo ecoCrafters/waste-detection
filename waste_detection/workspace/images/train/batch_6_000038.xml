@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_6_000038.JPG</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>2624</width>
+		<height>1968</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1403</xmin>
+			<ymin>1199</ymin>
+			<xmax>1582</xmax>
+			<ymax>1297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>850</xmin>
+			<ymin>817</ymin>
+			<xmax>908</xmax>
+			<ymax>877</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1709</xmin>
+			<ymin>821</ymin>
+			<xmax>1849</xmax>
+			<ymax>903</ymax>
+		</bndbox>
+	</object>
+</annotation>

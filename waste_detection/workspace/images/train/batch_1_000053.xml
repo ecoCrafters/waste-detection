@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_1_000053.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>1537</width>
+		<height>2049</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bottle cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1336</xmin>
+			<ymin>410</ymin>
+			<xmax>1532</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>369</ymin>
+			<xmax>487</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>

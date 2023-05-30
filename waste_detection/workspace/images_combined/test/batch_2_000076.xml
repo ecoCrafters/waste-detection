@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>batch_2_000076.JPG</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_2/000076.JPG</path>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth/>
+	</size>
+	<object>
+		<name>Bottle cap</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1182</xmin>
+			<xmax>1276</xmax>
+			<ymin>1306</ymin>
+			<ymax>1387</ymax>
+		</bndbox>
+	</object>
+</annotation>

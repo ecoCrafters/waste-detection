@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_3_IMG_5046.JPG</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>987</xmin>
+			<ymin>1969</ymin>
+			<xmax>1391</xmax>
+			<ymax>2408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pop tab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1055</xmin>
+			<ymin>2191</ymin>
+			<xmax>1128</xmax>
+			<ymax>2293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Glass jar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>628</xmin>
+			<ymin>1643</ymin>
+			<xmax>940</xmax>
+			<ymax>2069</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>631</xmin>
+			<ymin>1641</ymin>
+			<xmax>933</xmax>
+			<ymax>1887</ymax>
+		</bndbox>
+	</object>
+</annotation>

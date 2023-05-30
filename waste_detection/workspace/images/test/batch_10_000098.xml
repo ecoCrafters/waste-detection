@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>test</folder>
+	<filename>batch_10_000098.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>1824</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Styrofoam piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>1500</ymin>
+			<xmax>1577</xmax>
+			<ymax>2836</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1398</xmin>
+			<ymin>2330</ymin>
+			<xmax>1498</xmax>
+			<ymax>2449</ymax>
+		</bndbox>
+	</object>
+</annotation>

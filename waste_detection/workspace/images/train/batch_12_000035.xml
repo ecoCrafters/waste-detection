@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_12_000035.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>5312</width>
+		<height>2988</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1944</xmin>
+			<ymin>3468</ymin>
+			<xmax>2387</xmax>
+			<ymax>3840</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1222</xmin>
+			<ymin>2028</ymin>
+			<xmax>1482</xmax>
+			<ymax>2098</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aluminium foil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2334</xmin>
+			<ymin>3619</ymin>
+			<xmax>2431</xmax>
+			<ymax>3756</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,201 @@
+<annotation>
+	<filename>batch_6_000072.JPG</filename>
+	<path>/content/drive/Shareddrives/Capstone/TACO/data/batch_6/000072.JPG</path>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth />
+	</size>
+	<object>
+		<name>Bottle</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>291</xmin>
+			<xmax>309</xmax>
+			<ymin>341</ymin>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>433</xmin>
+			<xmax>449</xmax>
+			<ymin>0</ymin>
+			<ymax>10</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>368</xmin>
+			<xmax>377</xmax>
+			<ymin>193</ymin>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>227</xmin>
+			<xmax>251</xmax>
+			<ymin>480</ymin>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>192</xmin>
+			<xmax>202</xmax>
+			<ymin>495</ymin>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>187</xmin>
+			<xmax>196</xmax>
+			<ymin>523</ymin>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>448</xmin>
+			<xmax>478</xmax>
+			<ymin>0</ymin>
+			<ymax>9</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>339</xmin>
+			<xmax>355</xmax>
+			<ymin>305</ymin>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>309</xmin>
+			<xmax>332</xmax>
+			<ymin>324</ymin>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag &amp; wrapper</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>240</xmin>
+			<xmax>267</xmax>
+			<ymin>410</ymin>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>494</xmin>
+			<xmax>512</xmax>
+			<ymin>203</ymin>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>557</xmin>
+			<xmax>569</xmax>
+			<ymin>35</ymin>
+			<ymax>41</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle cap</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>226</xmin>
+			<xmax>232</xmax>
+			<ymin>548</ymin>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle cap</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>220</xmin>
+			<xmax>225</xmax>
+			<ymin>504</ymin>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle cap</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>185</xmin>
+			<xmax>190</xmax>
+			<ymin>633</ymin>
+			<ymax>638</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle cap</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>215</xmin>
+			<xmax>219</xmax>
+			<ymin>519</ymin>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

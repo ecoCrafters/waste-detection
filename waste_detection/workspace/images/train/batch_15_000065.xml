@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_15_000065.jpg</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1861</xmin>
+			<ymin>1405</ymin>
+			<xmax>2415</xmax>
+			<ymax>2114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Straw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2179</xmin>
+			<ymin>1519</ymin>
+			<xmax>2642</xmax>
+			<ymax>1581</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pop tab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2124</xmin>
+			<ymin>1508</ymin>
+			<xmax>2216</xmax>
+			<ymax>1593</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2700</xmin>
+			<ymin>1121</ymin>
+			<xmax>2818</xmax>
+			<ymax>1271</ymax>
+		</bndbox>
+	</object>
+</annotation>

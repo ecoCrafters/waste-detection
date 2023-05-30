@@ -1,0 +1,21 @@
+<annotation>
+	<filename>mix17.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/KAGGLE_DATASET/Images_of_Waste/YOLO_imgs/mix17.jpg</path>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth />
+	</size>
+	<object>
+		<name>Can</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>242</xmin>
+			<xmax>425</xmax>
+			<ymin>72</ymin>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

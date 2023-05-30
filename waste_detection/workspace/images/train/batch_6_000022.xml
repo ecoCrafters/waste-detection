@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>batch_6_000022.JPG</filename>
+	<source>
+		<database>Database</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paper bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>798</xmin>
+			<ymin>2099</ymin>
+			<xmax>1813</xmax>
+			<ymax>2827</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aluminium foil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymin>1503</ymin>
+			<xmax>1148</xmax>
+			<ymax>1987</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aluminium foil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1089</xmin>
+			<ymin>786</ymin>
+			<xmax>1772</xmax>
+			<ymax>1486</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aluminium foil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1392</xmin>
+			<ymin>221</ymin>
+			<xmax>1612</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aluminium foil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>1389</ymin>
+			<xmax>779</xmax>
+			<ymax>2408</ymax>
+		</bndbox>
+	</object>
+</annotation>

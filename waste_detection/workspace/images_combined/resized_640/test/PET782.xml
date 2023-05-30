@@ -1,0 +1,21 @@
+<annotation>
+	<filename>PET782.jpg</filename>
+	<path>/content/drive/Shareddrives/Capstone/KAGGLE_DATASET/Images_of_Waste/YOLO_imgs/PET782.jpg</path>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth />
+	</size>
+	<object>
+		<name>Bottle</name>
+		<pose />
+		<truncated />
+		<difficult />
+		<bndbox>
+			<xmin>103</xmin>
+			<xmax>488</xmax>
+			<ymin>229</ymin>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>
