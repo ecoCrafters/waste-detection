@@ -1,0 +1,28 @@
+item { 
+	name:'Bottle'
+	id:1
+}
+item { 
+	name:'Bottle cap'
+	id:2
+}
+item { 
+	name:'Can'
+	id:3
+}
+item { 
+	name:'Carton'
+	id:4
+}
+item { 
+	name:'Other plastic'
+	id:5
+}
+item { 
+	name:'Plastic bag & wrapper'
+	id:6
+}
+item { 
+	name:'Plastic container'
+	id:7
+}
