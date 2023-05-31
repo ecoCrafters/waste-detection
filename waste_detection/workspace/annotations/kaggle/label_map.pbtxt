@@ -1,0 +1,16 @@
+item { 
+	name:'Can'
+	id:1
+}
+item { 
+	name:'Glass bottle'
+	id:2
+}
+item { 
+	name:'Other plastic bottle'
+	id:3
+}
+item { 
+	name:'Plastic bottle'
+	id:4
+}

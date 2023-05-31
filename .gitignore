@@ -12,6 +12,7 @@
 *.JPEG
 *.heic
 *.HEIC
+*.xml
 */.git
 *.ipynb | *.drawio
 /kaggle (1).json
