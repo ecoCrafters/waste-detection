@@ -187,8 +187,11 @@ def main(_):
     examples = xml_to_csv(args.xml_dir)
     grouped = split(examples, 'filename')
     for group in grouped:
-        tf_example = create_tf_example(group, path)
-        writer.write(tf_example.SerializeToString())
+        try:
+            tf_example = create_tf_example(group, path)
+            writer.write(tf_example.SerializeToString())
+        except:
+            continue
     writer.close()
     print('Successfully created the TFRecord file: {}'.format(args.output_path))
     if args.csv_path is not None:
