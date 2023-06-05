@@ -1,2 +1,8 @@
-# waste-detection
-Object detection for waste images
+# Serving Model
+
+Response:
+```json
+{
+    'predictions': []
+}
+```
