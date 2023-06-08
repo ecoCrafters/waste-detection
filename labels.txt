@@ -1,0 +1,4 @@
+AluCan
+Glass
+HDPEM
+PET
