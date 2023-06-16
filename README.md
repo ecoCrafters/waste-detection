@@ -39,3 +39,13 @@ Sample Response:
   ]
 }
 ```
+
+## How to use it?
+Build the docker file by using command below in the terminal.
+```
+docker build -t <image_name> .
+```
+Run docker image that already built in the previous step.
+```
+docker run -p 8501:8501 <image_name>
+```
