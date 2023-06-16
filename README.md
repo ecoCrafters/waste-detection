@@ -40,8 +40,8 @@ Sample Response:
 }
 ```
 
-## How to use it?
-# Build and Run Docker
+# How to use it?
+## Build and Run Docker
 Build the docker file by using command below in the terminal.
 ```
 docker build -t <image_name> .
@@ -51,12 +51,12 @@ Run docker image that already built in the previous step.
 ```
 docker run -p 8501:8501 <image_name>
 ```
-# Prediction Testing
+## Prediction Testing
 In this repository, there is a 000001.jpg image that can be used for prediction testing. To run the prediction test, you can simply run req.py, which contains code for making a request to the server. To run the code, type the following command in your terminal.
 ```
 python req.py
 ```
-# Stop Docker
+## Stop Docker
 To stop docker services, type the following command in your terminal.
 ```
 docker stop <container_id>
