@@ -36,3 +36,5 @@ waste_detection/models/
 waste_detection/workspace/models/**/events.out.tfevents.*
 waste_detection/workspace/models/*/ckpt*
 waste_detection/workspace/models/*/checkpoint
+
+.env

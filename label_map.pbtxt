@@ -1,0 +1,28 @@
+item { 
+	name:'Drink can'
+	id:1
+}
+item { 
+	name:'Glass bottle'
+	id:2
+}
+item { 
+	name:'Other plastic bottle'
+	id:3
+}
+item { 
+	name:'Clear plastic bottle'
+	id:4
+}
+item { 
+	name:'Plastic bottle cap'
+	id:5
+}
+item { 
+	name:'Plastic film'
+	id:6
+}
+item { 
+	name:'Plastic straw'
+	id:7
+}

@@ -1,0 +1,5 @@
+numpy
+Pillow
+requests
+matplotlib
+python-dotenv

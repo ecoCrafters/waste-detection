@@ -4,25 +4,64 @@ import json
 import requests
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
+import dotenv
+import os
+
+# Load the environment variables
+dotenv.load_dotenv()
+# ENDPOINT = os.getenv('ENDPOINT') if os.getenv('ENDPOINT') else 'http://localhost:8501'
+ENDPOINT = 'http://localhost:8501'
+# MODEL_NAME = os.getenv('MODEL_NAME')
+MODEL_NAME = 'my_ssd_mobnet'
+# specify the path to the image
+PATH = 'sample_image/000001.jpg'
+
+
+def read_label_map(label_map_path):
+    item_id = None
+    item_name = None
+    items = {}
+
+    with open(label_map_path, "r") as file:
+        for line in file:
+            line.replace(" ", "")
+            if line == "item{":
+                pass
+            elif line == "}":
+                pass
+            elif "id" in line:
+                item_id = int(line.split(":", 1)[1].strip())
+            elif "name" in line:
+                item_name = line.split(":", 1)[1].replace("'", "").replace('"', "").strip()
+
+            if item_id is not None and item_name is not None:
+                items[item_id] = item_name
+                item_id = None
+                item_name = None
+
+    return items
+
 
 def load_image_into_numpy_array(path):
-    return np.array(Image.open(path))
+    img = Image.open(path).resize((320,320))
+    return np.array(img)
 
-PATH = './000001.jpg'
 
 test_image = load_image_into_numpy_array(PATH)
 reshaped_image = np.expand_dims(test_image, 0)
 data = json.dumps({"signature_name": "serving_default", "instances": reshaped_image.tolist()})
 headers = {"content-type": "application/json"}
-json_response = requests.post('http://localhost:8501/v1/models/my_ssd_mobnet:predict', data=data, headers=headers)
+json_response = requests.post(f'{ENDPOINT}/v1/models/{MODEL_NAME}:predict', data=data, headers=headers)
 predictions = json.loads(json_response.text)['predictions']
+label_map = read_label_map('label_map.pbtxt')
 
 boxes = predictions[0]['detection_boxes']
 scores = predictions[0]['detection_scores']
 labels = predictions[0]['detection_classes']
 
 # Visualize the results
-image = test_image # Load or obtain the image corresponding to the predictions
+# Load or obtain the image corresponding to the predictions
+image = test_image
 
 # Create figure and axes
 fig, ax = plt.subplots(1)
@@ -49,7 +88,7 @@ for box, score, label in zip(boxes, scores, labels):
     ax.add_patch(rect)
 
     # Add the class label and score as text
-    label_text = f'Class: {label}, Score: {score:.2f}'
+    label_text = f'Class: {label_map[int(label)]}, Score: {score:.2f}'
     ax.text(left, top - 5, label_text, color='r')
 
 # Show the image with bounding boxes and labels
