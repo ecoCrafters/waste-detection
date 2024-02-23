@@ -9,10 +9,8 @@ import os
 
 # Load the environment variables
 dotenv.load_dotenv()
-# ENDPOINT = os.getenv('ENDPOINT') if os.getenv('ENDPOINT') else 'http://localhost:8501'
-ENDPOINT = 'http://localhost:8501'
-# MODEL_NAME = os.getenv('MODEL_NAME')
-MODEL_NAME = 'my_ssd_mobnet'
+ENDPOINT = os.getenv('ENDPOINT') if os.getenv('ENDPOINT') else 'http://localhost:8501'
+MODEL_NAME = os.getenv('MODEL_NAME')
 # specify the path to the image
 PATH = 'sample_image/000001.jpg'
 
